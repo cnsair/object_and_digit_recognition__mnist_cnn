@@ -18,7 +18,7 @@ SHOW_FPS = True
 
 # COCO labels (common) - index matches torchvision detection labels
 COCO_INSTANCE_CATEGORY_NAMES = [
-    '__background__', 'human', 'bicycle', 'car', 'motorcycle', 'airplane', 'bus',
+    '__background__', 'person', 'bicycle', 'car', 'motorcycle', 'airplane', 'bus',
     'train', 'truck', 'boat', 'traffic light', 'fire hydrant', 'stop sign', 'parking meter',
     'bench', 'bird', 'cat', 'dog', 'horse', 'sheep', 'cow', 'elephant', 'bear', 'zebra',
     'giraffe', 'backpack', 'umbrella', 'handbag', 'tie', 'suitcase', 'frisbee', 'skis',
